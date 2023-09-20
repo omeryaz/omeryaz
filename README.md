@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a streaming platform clone.<br>👯 I’m looking to collaborate on a diet app that considers Dietary Reference Intake (DRI) and protein quality.<br>🌿 I’m currently learning Typescript and Tailwind CSS.<br>🌱 I want to learn about Next.js.<br>⚡ Fun fact, I am training for a marathon!
+🔭 I’m currently working on a site for a travel agency.<br>👯 I’m looking to collaborate on a diet app that considers Dietary Reference Intake (DRI) and protein quality.<br>🌿 I’m currently learning Node.js.<br>🌱 I want to learn about Go.<br>⚡ Fun fact, I am training for a marathon!
 
 
 ## 🌐 Socials:
