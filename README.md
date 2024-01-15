@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a site for a travel agency.<br>👯 I’m looking to collaborate on a diet app that considers Dietary Reference Intake (DRI) and protein quality.<br>🌿 I’m currently learning Node.js.<br>🌱 I want to learn about Go.<br>⚡ Fun fact, I am training for a marathon!
+🔭 I am currently engaged in freelance work, focusing on a variety of projects utilizing Next.js.<br>👯 I’m looking to collaborate on a diet app that considers Dietary Reference Intake (DRI) and protein quality.<br>🌿 I’m currently learning Node.js.<br>🌱 I want to learn about Go.<br>⚡ Fun fact, I am training for a marathon!
 
 
 ## 🌐 Socials:
