@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I am currently engaged in freelance work, focusing on a variety of projects utilizing Next.js.<br>👯 I’m looking to collaborate on a diet app that considers Dietary Reference Intake (DRI) and protein quality.<br>🌿 I’m currently learning Node.js.<br>🌱 I want to learn about Go.<br>⚡ Fun fact, I am training for a marathon!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yazici-omer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omeryaz) 
 
